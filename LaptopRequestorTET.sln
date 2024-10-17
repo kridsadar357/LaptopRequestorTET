@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaptopRequestorTET", "LaptopRequestorTET\LaptopRequestorTET.csproj", "{278D4894-C793-4E3F-B564-84BF48061321}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TET Asset Control Outside", "TET Asset Control Outside\TET Asset Control Outside.vdproj", "{FF917874-E194-4E49-A08D-ADE1DF08B3C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{278D4894-C793-4E3F-B564-84BF48061321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{278D4894-C793-4E3F-B564-84BF48061321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{278D4894-C793-4E3F-B564-84BF48061321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{278D4894-C793-4E3F-B564-84BF48061321}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF917874-E194-4E49-A08D-ADE1DF08B3C8}.Debug|Any CPU.ActiveCfg = Debug
+		{FF917874-E194-4E49-A08D-ADE1DF08B3C8}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AF52266-F7A6-49C1-8D1F-180F04486DCA}
+	EndGlobalSection
+EndGlobal
